@@ -45,7 +45,11 @@ public class MyStepDef extends Base {
     public void i_clicked_on_the_buy_again() throws Throwable {
        // throw new PendingException();
 
-        System.out.println("clicked on buy again  ");
+        System.out.println("clicked on buy again1  ");
+        System.out.println("clicked on buy again 2 ");
+        System.out.println("clicked on buy again  22");
+        System.out.println("clicked on buy again 3  ");
+        System.out.println("clicked on buy again 4 ");
 
     }
 
