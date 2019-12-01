@@ -1,0 +1,363 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-11-30T20:16:58.827Z",
+        "before": [
+          {
+            "result": {
+              "duration": 7116136800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevaldiation()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Home page default login",
+        "description": "",
+        "id": "application-login;home-page-default-login",
+        "after": [
+          {
+            "result": {
+              "duration": 1495944400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftervaldiation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2431800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I log in to the Website",
+            "match": {
+              "location": "MyStepDef.iLogInToTheWebsite()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 655500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I clicked on the buy again",
+            "match": {
+              "location": "MyStepDef.i_clicked_on_the_buy_again()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1151600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "The page is displayed",
+            "match": {
+              "location": "MyStepDef.thePageIsDisplayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@MobileTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-30T20:17:07.598Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5389370900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevaldiation()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Search for items and then move to checkout page",
+        "description": "",
+        "id": "application-login;search-for-items-and-then-move-to-checkout-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 321254700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftervaldiation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 474900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User is on Greencart Landing page",
+            "match": {
+              "location": "MyStepDef.user_is_on_greencart_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3339164900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User searched for Brinjal Vegetable",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Brinjal",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepDef.user_searched_for_vegetable(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 146528800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Added items to cart",
+            "match": {
+              "location": "MyStepDef.added_items_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 247827100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User proceeded to Checkout page for purchase",
+            "match": {
+              "location": "MyStepDef.user_proceeded_to_checkout_page_for_purchase()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 72199700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "verify selected Brinjal items are displayed in Check out page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Brinjal",
+                  "offset": 16
+                }
+              ],
+              "location": "MyStepDef.verify_selected_items_are_displayed_in_check_out_page(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WebTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-30T20:17:17.132Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5032357300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevaldiation()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Search for items and then move to checkout page",
+        "description": "",
+        "id": "application-login;search-for-items-and-then-move-to-checkout-page;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 283174500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftervaldiation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 414900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User is on Greencart Landing page",
+            "match": {
+              "location": "MyStepDef.user_is_on_greencart_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3300326800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User searched for Beetroot Vegetable",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Beetroot",
+                  "offset": 18
+                }
+              ],
+              "location": "MyStepDef.user_searched_for_vegetable(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 129757200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Added items to cart",
+            "match": {
+              "location": "MyStepDef.added_items_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 233766400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User proceeded to Checkout page for purchase",
+            "match": {
+              "location": "MyStepDef.user_proceeded_to_checkout_page_for_purchase()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 67794800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "verify selected Beetroot items are displayed in Check out page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Beetroot",
+                  "offset": 16
+                }
+              ],
+              "location": "MyStepDef.verify_selected_items_are_displayed_in_check_out_page(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WebTest"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-30T20:17:26.192Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5147196100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforevaldiation()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Search for items and then move to checkout page",
+        "description": "",
+        "id": "application-login;search-for-items-and-then-move-to-checkout-page;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 462664100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.aftervaldiation()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 247872500,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "i search Brinjal in eb",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Brinjal",
+                  "offset": 9
+                }
+              ],
+              "location": "MyStepDef.i_search_in_eb(String)"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@MobileTest"
+          }
+        ]
+      }
+    ],
+    "name": "Application Login",
+    "description": "",
+    "id": "application-login",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/login.Feature",
+    "tags": []
+  }
+]
