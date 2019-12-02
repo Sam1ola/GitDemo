@@ -68,7 +68,11 @@ public class MyStepDef extends Base {
     @Then("^The page is displayed$")
     public void thePageIsDisplayed()
     {
-        System.out.println("Displayed");
+        System.out.println("Displayed1");
+        System.out.println("Displayed2");
+        System.out.println("Displayed3");
+        System.out.println("Displayed4");
+
     }
 
    @Given("I click on page")
