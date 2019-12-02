@@ -71,6 +71,9 @@ public class MyStepDef extends Base {
         System.out.println("Displayed7");
         System.out.println("Displayed8");
         System.out.println("Displayed9");
+        System.out.println("Displayed7");
+        System.out.println("Displayed8");
+        System.out.println("Displayed9");
     }
 
    @Given("I click on page")
