@@ -57,6 +57,10 @@ public class MyStepDef extends Base {
         System.out.println("clicked on buy again  2111");
         System.out.println("clicked on buy again 4  ");
         System.out.println("clicked on buy again 5");
+        System.out.println("clicked on buy again 4  ");
+        System.out.println("clicked on buy again 5");  
+        System.out.println("clicked on buy again 099  ");
+        System.out.println("clicked on buy again 999");
 
     }
 
