@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="28dc72ab-38f7-4aab-885b-f8ad862a6e9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefination/MyStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefination/MyStepDef.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
