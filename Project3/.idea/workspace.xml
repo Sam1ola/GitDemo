@@ -3,6 +3,65 @@
   <component name="ChangeListManager">
     <list default="true" id="28dc72ab-38f7-4aab-885b-f8ad862a6e9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/cucumber.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/js/jquery.tablesorter.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-failures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/overview-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/report-feature_file-src-test-java-features-login-Feature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/report-tag_PortalTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report-html/cucumber-html-reports/report-tag_WebTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cukes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CucumberOptions.TestRunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberOptions.TestRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +96,28 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CucumberOptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CucumberOptions" />
+      <option name="MAIN_CLASS_NAME" value="CucumberOptions.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,6 +129,14 @@
       <option name="presentableId" value="Default" />
       <updated>1575226054762</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1575526089376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575526089376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +151,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
