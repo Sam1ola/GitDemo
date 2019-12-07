@@ -1,5 +1,5 @@
-C:\Users\tommi\.jenkins\$(JENKINS_HOME)\Project3\src\test\java\StepDefination\Hooks.java
-C:\Users\tommi\.jenkins\$(JENKINS_HOME)\Project3\src\test\java\PageObject\HomePage.java
-C:\Users\tommi\.jenkins\$(JENKINS_HOME)\Project3\src\test\java\StepDefination\MyStepDef.java
-C:\Users\tommi\.jenkins\$(JENKINS_HOME)\Project3\src\test\java\CucumberOptions\TestRunner.java
-C:\Users\tommi\.jenkins\$(JENKINS_HOME)\Project3\src\test\java\Cucumber\Base.java
+C:\Users\tommi\GitDemo\Project3\src\test\java\PageObject\HomePage.java
+C:\Users\tommi\GitDemo\Project3\src\test\java\StepDefination\Hooks.java
+C:\Users\tommi\GitDemo\Project3\src\test\java\CucumberOptions\TestRunner.java
+C:\Users\tommi\GitDemo\Project3\src\test\java\StepDefination\MyStepDef.java
+C:\Users\tommi\GitDemo\Project3\src\test\java\Cucumber\Base.java

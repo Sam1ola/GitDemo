@@ -1,3 +1,5 @@
+PageObject\HomePage.class
 StepDefination\Hooks.class
 CucumberOptions\TestRunner.class
 StepDefination\MyStepDef.class
+Cucumber\Base.class
