@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="28.819584">
-<testcase classname="Application Login" name="Home page default login" time="5.969231">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="30.448957">
+<testcase classname="Application Login" name="Home page default login" time="5.895892">
 <system-out><![CDATA[Given I log in to the Website...............................................passed
 When I clicked on the buy again.............................................passed
 Then The page is displayed..................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Application Login" name="Search for items and then move to checkout page" time="8.917203">
+<testcase classname="Application Login" name="Search for items and then move to checkout page" time="9.262932">
 <system-out><![CDATA[Given User is on Greencart Landing page.....................................passed
 When User searched for Brinjal Vegetable....................................passed
 And Added items to cart.....................................................passed
@@ -13,7 +13,7 @@ And User proceeded to Checkout page for purchase............................pass
 Then verify selected Brinjal items are displayed in Check out page..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="Application Login" name="Search for items and then move to checkout page 2" time="8.625656">
+<testcase classname="Application Login" name="Search for items and then move to checkout page 2" time="9.392393">
 <system-out><![CDATA[Given User is on Greencart Landing page.....................................passed
 When User searched for Beetroot Vegetable...................................passed
 And Added items to cart.....................................................passed
@@ -21,7 +21,7 @@ And User proceeded to Checkout page for purchase............................pass
 Then verify selected Beetroot items are displayed in Check out page.........passed
 ]]></system-out>
 </testcase>
-<testcase classname="Application Login" name="Search for items and then move to checkout page 3" time="5.307494">
+<testcase classname="Application Login" name="Search for items and then move to checkout page 3" time="5.89774">
 <system-out><![CDATA[Given i search Brinjal in eb................................................passed
 ]]></system-out>
 </testcase>
