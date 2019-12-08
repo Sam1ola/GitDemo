@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28dc72ab-38f7-4aab-885b-f8ad862a6e9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefination/MyStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefination/MyStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cukes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefination/MyStepDef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefination/MyStepDef.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,18 +25,45 @@
   </component>
   <component name="ProjectId" id="1UOSGj7hLb4gl1JfAAhIl9H9uwO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CucumberOptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CucumberOptions" />
+      <option name="MAIN_CLASS_NAME" value="CucumberOptions.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -56,10 +85,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="147" key="FileChooserDialogImpl" timestamp="1575833611739">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="147" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1575833611739" />
+    <state x="385" y="128" key="NewModule_or_Project.wizard" timestamp="1575833575390">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="385" y="128" key="NewModule_or_Project.wizard/0.0.1440.860@0.0.1440.860" timestamp="1575833575390" />
   </component>
 </project>
