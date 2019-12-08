@@ -121,6 +121,12 @@ public class MyStepDef extends Base {
     public void user_is_on_greencart_landing_page() throws Throwable {
        // throw new PendingException();
        // driver= Base.getDriver();
+
+        System.out.println("clicked on buy again 3  ");
+        System.out.println("clicked on buy again 4 ");
+        System.out.println("clicked on buy again 3  ");
+        System.out.println("clicked on buy again 4 ");
+
     }
 
     @When("^User searched for (.+) Vegetable$")
