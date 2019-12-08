@@ -94,6 +94,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="374" y="24" key="CommitChangelistDialog2" timestamp="1575833641402">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="374" y="24" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1575833641402" />
     <state x="500" y="147" key="FileChooserDialogImpl" timestamp="1575833611739">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -102,5 +106,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="385" y="128" key="NewModule_or_Project.wizard/0.0.1440.860@0.0.1440.860" timestamp="1575833575390" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1575833723736">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1575833723736" />
   </component>
 </project>
