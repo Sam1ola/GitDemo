@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28dc72ab-38f7-4aab-885b-f8ad862a6e9a" name="Default Changelist" comment="">
+    <list default="true" id="28dc72ab-38f7-4aab-885b-f8ad862a6e9a" name="Default Changelist" comment="bcbxzcvb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/StepDefination/MyStepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefination/MyStepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cukes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cukes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CucumberOptions.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CucumberOptions.TestRunner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberOptions.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberOptions.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefination/MyStepDef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefination/MyStepDef.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575825458339</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="bcbxzcvb">
+      <created>1575828217849</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575828217849</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +241,8 @@
     <MESSAGE value="gggggggggggggggggggggggg" />
     <MESSAGE value="new webhook" />
     <MESSAGE value="fvdfd" />
-    <option name="LAST_COMMIT_MESSAGE" value="fvdfd" />
+    <MESSAGE value="bcbxzcvb" />
+    <option name="LAST_COMMIT_MESSAGE" value="bcbxzcvb" />
   </component>
   <component name="WindowStateProjectService">
     <state x="312" y="88" key="#Notifications" timestamp="1575822924930">
@@ -236,10 +253,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="400" y="157" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.860@0.0.1440.860" timestamp="1575822013362" />
-    <state x="374" y="24" width="692" height="811" key="CommitChangelistDialog2" timestamp="1575825456748">
+    <state x="374" y="24" width="692" height="811" key="CommitChangelistDialog2" timestamp="1575829168629">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="374" y="24" width="692" height="811" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1575825456748" />
+    <state x="374" y="24" width="692" height="811" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1575829168629" />
     <state width="1340" height="206" key="GridCell.Tab.0.bottom" timestamp="1575823303385">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -260,10 +277,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="200" y="4" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1575821970077" />
-    <state x="312" y="151" key="Vcs.Push.Dialog.v2" timestamp="1575825463434">
+    <state x="312" y="151" key="Vcs.Push.Dialog.v2" timestamp="1575828296588">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="151" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1575825463434" />
+    <state x="312" y="151" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1575828296588" />
     <state x="415" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1575822070645">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
